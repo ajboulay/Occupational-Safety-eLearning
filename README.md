@@ -1,1 +1,1 @@
-# Occupational-Safety-eLearning
+# Occupational-Safety-eLearning-This Repo holds: Instructional Design, Adult Learning, eLearning Courseware Development, Automation and Computer Programming for eLearning courses on Occupational Safety. 
